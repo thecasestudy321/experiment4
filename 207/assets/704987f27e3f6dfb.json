@@ -1,0 +1,203 @@
+﻿{"frames": {
+
+"Bitmap 10.png":
+{
+	"frame": {"x":2,"y":2,"w":5,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":342},
+	"sourceSize": {"w":5,"h":342}
+},
+"Bitmap 10new":
+{
+	"frame": {"x":9,"y":2,"w":44,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":22},
+	"sourceSize": {"w":44,"h":22}
+},
+"Bitmap 11.png":
+{
+	"frame": {"x":55,"y":2,"w":5,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":12},
+	"sourceSize": {"w":5,"h":12}
+},
+"Bitmap 1fu":
+{
+	"frame": {"x":62,"y":2,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"Bitmap 28new":
+{
+	"frame": {"x":84,"y":2,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"Bitmap 5":
+{
+	"frame": {"x":124,"y":2,"w":70,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":84},
+	"sourceSize": {"w":70,"h":84}
+},
+"Bitmap 6":
+{
+	"frame": {"x":196,"y":2,"w":84,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":63},
+	"sourceSize": {"w":84,"h":63}
+},
+"Bitmap 6new":
+{
+	"frame": {"x":282,"y":2,"w":11,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":24},
+	"sourceSize": {"w":11,"h":24}
+},
+"Bitmap 8":
+{
+	"frame": {"x":295,"y":2,"w":269,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":269,"h":25},
+	"sourceSize": {"w":269,"h":25}
+},
+"Bitmap 88":
+{
+	"frame": {"x":566,"y":2,"w":1444,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1444,"h":24},
+	"sourceSize": {"w":1444,"h":24}
+},
+"hitArea 复制":
+{
+	"frame": {"x":2,"y":346,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"magnifier glass.png":
+{
+	"frame": {"x":54,"y":346,"w":330,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":305},
+	"sourceSize": {"w":330,"h":305}
+},
+"thermometer.png copy":
+{
+	"frame": {"x":386,"y":346,"w":44,"h":443},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":443},
+	"sourceSize": {"w":44,"h":443}
+},
+"thermometer_big1.png":
+{
+	"frame": {"x":432,"y":346,"w":90,"h":1306},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":1306},
+	"sourceSize": {"w":90,"h":1306}
+},
+"yellow":
+{
+	"frame": {"x":524,"y":346,"w":1444,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1444,"h":24},
+	"sourceSize": {"w":1444,"h":24}
+},
+"教室":
+{
+	"frame": {"x":2,"y":1654,"w":149,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":63},
+	"sourceSize": {"w":149,"h":63}
+},
+"教室1":
+{
+	"frame": {"x":153,"y":1654,"w":149,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":63},
+	"sourceSize": {"w":149,"h":63}
+},
+"树荫":
+{
+	"frame": {"x":304,"y":1654,"w":149,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":63},
+	"sourceSize": {"w":149,"h":63}
+},
+"树荫下1":
+{
+	"frame": {"x":455,"y":1654,"w":149,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":63},
+	"sourceSize": {"w":149,"h":63}
+},
+"温度计":
+{
+	"frame": {"x":606,"y":1654,"w":60,"h":343},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":343},
+	"sourceSize": {"w":60,"h":343}
+},
+"环境":
+{
+	"frame": {"x":668,"y":1654,"w":1095,"h":770},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1095,"h":770},
+	"sourceSize": {"w":1095,"h":770}
+},
+"表格":
+{
+	"frame": {"x":2,"y":2426,"w":442,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":442,"h":179},
+	"sourceSize": {"w":442,"h":179}
+},
+"阳光":
+{
+	"frame": {"x":446,"y":2426,"w":149,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":63},
+	"sourceSize": {"w":149,"h":63}
+},
+"阳光1":
+{
+	"frame": {"x":597,"y":2426,"w":149,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":63},
+	"sourceSize": {"w":149,"h":63}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"704987f27e3f6dfb.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1"
+}
+}

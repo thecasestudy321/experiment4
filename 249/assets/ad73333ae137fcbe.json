@@ -1,0 +1,123 @@
+﻿{"frames": {
+
+"Bitmap 157":
+{
+	"frame": {"x":2,"y":2,"w":245,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":245,"h":211},
+	"sourceSize": {"w":245,"h":211}
+},
+"Bitmap 17":
+{
+	"frame": {"x":249,"y":2,"w":152,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":41},
+	"sourceSize": {"w":152,"h":41}
+},
+"Bitmap 18":
+{
+	"frame": {"x":403,"y":2,"w":135,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":118},
+	"sourceSize": {"w":135,"h":118}
+},
+"Bitmap 19":
+{
+	"frame": {"x":540,"y":2,"w":128,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":82},
+	"sourceSize": {"w":128,"h":82}
+},
+"Bitmap 20":
+{
+	"frame": {"x":670,"y":2,"w":136,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":35},
+	"sourceSize": {"w":136,"h":35}
+},
+"Bitmap 21":
+{
+	"frame": {"x":808,"y":2,"w":144,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":141},
+	"sourceSize": {"w":144,"h":141}
+},
+"Bitmap 22":
+{
+	"frame": {"x":2,"y":215,"w":352,"h":383},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":352,"h":383},
+	"sourceSize": {"w":352,"h":383}
+},
+"Bitmap 23":
+{
+	"frame": {"x":356,"y":215,"w":354,"h":237},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":354,"h":237},
+	"sourceSize": {"w":354,"h":237}
+},
+"Bitmap 24":
+{
+	"frame": {"x":2,"y":600,"w":412,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":412,"h":172},
+	"sourceSize": {"w":412,"h":172}
+},
+"Bitmap 25":
+{
+	"frame": {"x":416,"y":600,"w":376,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":376,"h":314},
+	"sourceSize": {"w":376,"h":314}
+},
+"Bitmap 26":
+{
+	"frame": {"x":2,"y":916,"w":302,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":302,"h":115},
+	"sourceSize": {"w":302,"h":115}
+},
+"Bitmap 27":
+{
+	"frame": {"x":306,"y":916,"w":431,"h":431},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":431,"h":431},
+	"sourceSize": {"w":431,"h":431}
+},
+"Bitmap 28":
+{
+	"frame": {"x":2,"y":1349,"w":421,"h":348},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":421,"h":348},
+	"sourceSize": {"w":421,"h":348}
+},
+"Bitmap 29":
+{
+	"frame": {"x":425,"y":1349,"w":431,"h":431},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":431,"h":431},
+	"sourceSize": {"w":431,"h":431}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"ad73333ae137fcbe.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}

@@ -1,0 +1,107 @@
+﻿{"frames": {
+
+"Bitmap 1":
+{
+	"frame": {"x":2,"y":2,"w":97,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":65},
+	"sourceSize": {"w":97,"h":65}
+},
+"Bitmap 10":
+{
+	"frame": {"x":101,"y":2,"w":97,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":46},
+	"sourceSize": {"w":97,"h":46}
+},
+"Bitmap 11":
+{
+	"frame": {"x":2,"y":69,"w":60,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":65},
+	"sourceSize": {"w":60,"h":65}
+},
+"Bitmap 12":
+{
+	"frame": {"x":64,"y":69,"w":72,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":67},
+	"sourceSize": {"w":72,"h":67}
+},
+"Bitmap 2":
+{
+	"frame": {"x":138,"y":69,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+"Bitmap 3":
+{
+	"frame": {"x":2,"y":155,"w":64,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":69},
+	"sourceSize": {"w":64,"h":69}
+},
+"Bitmap 4":
+{
+	"frame": {"x":68,"y":155,"w":102,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":62},
+	"sourceSize": {"w":102,"h":62}
+},
+"Bitmap 5":
+{
+	"frame": {"x":172,"y":155,"w":53,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":90},
+	"sourceSize": {"w":53,"h":90}
+},
+"Bitmap 6":
+{
+	"frame": {"x":2,"y":247,"w":39,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":104},
+	"sourceSize": {"w":39,"h":104}
+},
+"Bitmap 7":
+{
+	"frame": {"x":43,"y":247,"w":62,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":80},
+	"sourceSize": {"w":62,"h":80}
+},
+"Bitmap 8":
+{
+	"frame": {"x":107,"y":247,"w":60,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":105},
+	"sourceSize": {"w":60,"h":105}
+},
+"Bitmap 9":
+{
+	"frame": {"x":2,"y":354,"w":87,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":59},
+	"sourceSize": {"w":87,"h":59}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"b27843a90e09625b.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

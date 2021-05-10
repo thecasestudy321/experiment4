@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"Bitmap 3 复制":
+{
+	"frame": {"x":2,"y":2,"w":436,"h":289},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":436,"h":289},
+	"sourceSize": {"w":436,"h":289}
+},
+"Bitmap 32":
+{
+	"frame": {"x":440,"y":2,"w":1292,"h":688},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1292,"h":688},
+	"sourceSize": {"w":1292,"h":688}
+},
+"Bitmap 4":
+{
+	"frame": {"x":1734,"y":2,"w":162,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":162,"h":67},
+	"sourceSize": {"w":162,"h":67}
+},
+"大拇指.png":
+{
+	"frame": {"x":2,"y":692,"w":262,"h":119},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":119},
+	"sourceSize": {"w":262,"h":119}
+},
+"手部.png":
+{
+	"frame": {"x":266,"y":692,"w":429,"h":239},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":429,"h":239},
+	"sourceSize": {"w":429,"h":239}
+},
+"放大镜.png":
+{
+	"frame": {"x":697,"y":692,"w":160,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":161},
+	"sourceSize": {"w":160,"h":161}
+},
+"直尺.png":
+{
+	"frame": {"x":859,"y":692,"w":68,"h":1104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":1104},
+	"sourceSize": {"w":68,"h":1104}
+},
+"组 10 拷贝.png":
+{
+	"frame": {"x":929,"y":692,"w":421,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":421,"h":376},
+	"sourceSize": {"w":421,"h":376}
+},
+"组 10.png":
+{
+	"frame": {"x":1352,"y":692,"w":596,"h":426},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":596,"h":426},
+	"sourceSize": {"w":596,"h":426}
+},
+"组 9.png":
+{
+	"frame": {"x":2,"y":1798,"w":421,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":421,"h":376},
+	"sourceSize": {"w":421,"h":376}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"838aacf5e0030277.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1"
+}
+}

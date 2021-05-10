@@ -1,0 +1,107 @@
+﻿{"frames": {
+
+"Bitmap 22":
+{
+	"frame": {"x":2,"y":2,"w":900,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":600},
+	"sourceSize": {"w":900,"h":600}
+},
+"Bitmap 23":
+{
+	"frame": {"x":904,"y":2,"w":858,"h":644},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":858,"h":644},
+	"sourceSize": {"w":858,"h":644}
+},
+"Bitmap 24":
+{
+	"frame": {"x":2,"y":648,"w":950,"h":704},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":950,"h":704},
+	"sourceSize": {"w":950,"h":704}
+},
+"Bitmap 27":
+{
+	"frame": {"x":954,"y":648,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+"Bitmap 28":
+{
+	"frame": {"x":972,"y":648,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"Bitmap 29":
+{
+	"frame": {"x":1006,"y":648,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+"Bitmap 30":
+{
+	"frame": {"x":1024,"y":648,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"Bitmap 31":
+{
+	"frame": {"x":1058,"y":648,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+"Bitmap 57":
+{
+	"frame": {"x":1084,"y":648,"w":900,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":600},
+	"sourceSize": {"w":900,"h":600}
+},
+"circle_11":
+{
+	"frame": {"x":1986,"y":648,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"circle_21":
+{
+	"frame": {"x":2,"y":1354,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"hitArea1":
+{
+	"frame": {"x":54,"y":1354,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"e7737ecb12b02525.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

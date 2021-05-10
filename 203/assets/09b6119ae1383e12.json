@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"Bitmap 11":
+{
+	"frame": {"x":2,"y":2,"w":42,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":15},
+	"sourceSize": {"w":42,"h":15}
+},
+"Bitmap 13":
+{
+	"frame": {"x":46,"y":2,"w":30,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":35},
+	"sourceSize": {"w":30,"h":35}
+},
+"Bitmap 2":
+{
+	"frame": {"x":2,"y":39,"w":50,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":49},
+	"sourceSize": {"w":50,"h":49}
+},
+"Bitmap 3":
+{
+	"frame": {"x":54,"y":39,"w":67,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":34},
+	"sourceSize": {"w":67,"h":34}
+},
+"Bitmap 4":
+{
+	"frame": {"x":2,"y":90,"w":73,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":46},
+	"sourceSize": {"w":73,"h":46}
+},
+"Bitmap 5":
+{
+	"frame": {"x":2,"y":138,"w":58,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":46},
+	"sourceSize": {"w":58,"h":46}
+},
+"Bitmap 6":
+{
+	"frame": {"x":62,"y":138,"w":15,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":42},
+	"sourceSize": {"w":15,"h":42}
+},
+"Bitmap 7":
+{
+	"frame": {"x":79,"y":138,"w":27,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":34},
+	"sourceSize": {"w":27,"h":34}
+},
+"Bitmap 8":
+{
+	"frame": {"x":108,"y":138,"w":15,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":42},
+	"sourceSize": {"w":15,"h":42}
+},
+"Bitmap 9":
+{
+	"frame": {"x":2,"y":186,"w":28,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":33},
+	"sourceSize": {"w":28,"h":33}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"09b6119ae1383e12.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

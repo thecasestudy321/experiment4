@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"Bitmap 1":
+{
+	"frame": {"x":2,"y":2,"w":90,"h":228},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":228},
+	"sourceSize": {"w":90,"h":228}
+},
+"Bitmap 10":
+{
+	"frame": {"x":94,"y":2,"w":161,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":67},
+	"sourceSize": {"w":161,"h":67}
+},
+"Bitmap 2":
+{
+	"frame": {"x":257,"y":2,"w":91,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":224},
+	"sourceSize": {"w":91,"h":224}
+},
+"Bitmap 3":
+{
+	"frame": {"x":350,"y":2,"w":105,"h":226},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":226},
+	"sourceSize": {"w":105,"h":226}
+},
+"Bitmap 4":
+{
+	"frame": {"x":2,"y":232,"w":334,"h":213},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":334,"h":213},
+	"sourceSize": {"w":334,"h":213}
+},
+"Bitmap 5":
+{
+	"frame": {"x":2,"y":447,"w":218,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":53},
+	"sourceSize": {"w":218,"h":53}
+},
+"Bitmap 6":
+{
+	"frame": {"x":222,"y":447,"w":221,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":53},
+	"sourceSize": {"w":221,"h":53}
+},
+"Bitmap 7":
+{
+	"frame": {"x":2,"y":502,"w":225,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":55},
+	"sourceSize": {"w":225,"h":55}
+},
+"Bitmap 8":
+{
+	"frame": {"x":229,"y":502,"w":225,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":55},
+	"sourceSize": {"w":225,"h":55}
+},
+"Bitmap 9":
+{
+	"frame": {"x":2,"y":559,"w":225,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":55},
+	"sourceSize": {"w":225,"h":55}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"41dea2a9ed95b669.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

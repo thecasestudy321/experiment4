@@ -1,0 +1,107 @@
+﻿{"frames": {
+
+"Bitmap 1":
+{
+	"frame": {"x":2,"y":2,"w":49,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":67},
+	"sourceSize": {"w":49,"h":67}
+},
+"Bitmap 2":
+{
+	"frame": {"x":53,"y":2,"w":247,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":247,"h":77},
+	"sourceSize": {"w":247,"h":77}
+},
+"Bitmap 3":
+{
+	"frame": {"x":302,"y":2,"w":61,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":67},
+	"sourceSize": {"w":61,"h":67}
+},
+"Bitmap 4":
+{
+	"frame": {"x":365,"y":2,"w":1330,"h":709},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1330,"h":709},
+	"sourceSize": {"w":1330,"h":709}
+},
+"Bitmap 5":
+{
+	"frame": {"x":2,"y":713,"w":843,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":843,"h":81},
+	"sourceSize": {"w":843,"h":81}
+},
+"Paper_clip.png":
+{
+	"frame": {"x":847,"y":713,"w":38,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":127},
+	"sourceSize": {"w":38,"h":127}
+},
+"Paper_one_chage.png":
+{
+	"frame": {"x":887,"y":713,"w":116,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":123},
+	"sourceSize": {"w":116,"h":123}
+},
+"clips_qc.png":
+{
+	"frame": {"x":1005,"y":713,"w":336,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":336,"h":87},
+	"sourceSize": {"w":336,"h":87}
+},
+"hitArea":
+{
+	"frame": {"x":1343,"y":713,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"magnet_qc.png":
+{
+	"frame": {"x":1395,"y":713,"w":634,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":634,"h":81},
+	"sourceSize": {"w":634,"h":81}
+},
+"回形针_qc.png":
+{
+	"frame": {"x":2,"y":842,"w":116,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":44},
+	"sourceSize": {"w":116,"h":44}
+},
+"有标记的条形磁铁_qc.png":
+{
+	"frame": {"x":120,"y":842,"w":298,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":298,"h":43},
+	"sourceSize": {"w":298,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"d8616baa21d348ff.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

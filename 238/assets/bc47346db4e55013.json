@@ -1,0 +1,171 @@
+﻿{"frames": {
+
+"Bar_magnet.png":
+{
+	"frame": {"x":2,"y":2,"w":434,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":434,"h":78},
+	"sourceSize": {"w":434,"h":78}
+},
+"Bitmap 1":
+{
+	"frame": {"x":2,"y":82,"w":74,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":36},
+	"sourceSize": {"w":74,"h":36}
+},
+"Bitmap 1 复制":
+{
+	"frame": {"x":78,"y":82,"w":161,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":52},
+	"sourceSize": {"w":161,"h":52}
+},
+"Bitmap 2":
+{
+	"frame": {"x":2,"y":136,"w":455,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":455,"h":87},
+	"sourceSize": {"w":455,"h":87}
+},
+"Bitmap 3":
+{
+	"frame": {"x":459,"y":136,"w":48,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":30},
+	"sourceSize": {"w":48,"h":30}
+},
+"Bitmap 4":
+{
+	"frame": {"x":2,"y":225,"w":451,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":451,"h":87},
+	"sourceSize": {"w":451,"h":87}
+},
+"elastic.png":
+{
+	"frame": {"x":2,"y":314,"w":128,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":25},
+	"sourceSize": {"w":128,"h":25}
+},
+"glass_marble.png":
+{
+	"frame": {"x":132,"y":314,"w":40,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":39},
+	"sourceSize": {"w":40,"h":39}
+},
+"回形针.png":
+{
+	"frame": {"x":174,"y":314,"w":127,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":36},
+	"sourceSize": {"w":127,"h":36}
+},
+"塑料尺子.png":
+{
+	"frame": {"x":2,"y":355,"w":219,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":35},
+	"sourceSize": {"w":219,"h":35}
+},
+"塑料片.png":
+{
+	"frame": {"x":223,"y":355,"w":95,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":55},
+	"sourceSize": {"w":95,"h":55}
+},
+"小钢球.png":
+{
+	"frame": {"x":320,"y":355,"w":39,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":39},
+	"sourceSize": {"w":39,"h":39}
+},
+"弹簧.png":
+{
+	"frame": {"x":2,"y":412,"w":158,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":36},
+	"sourceSize": {"w":158,"h":36}
+},
+"木尺子.png":
+{
+	"frame": {"x":162,"y":412,"w":219,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":35},
+	"sourceSize": {"w":219,"h":35}
+},
+"纸片.png":
+{
+	"frame": {"x":383,"y":412,"w":96,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":59},
+	"sourceSize": {"w":96,"h":59}
+},
+"铁片.png":
+{
+	"frame": {"x":2,"y":473,"w":107,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":47},
+	"sourceSize": {"w":107,"h":47}
+},
+"铁钉.png":
+{
+	"frame": {"x":111,"y":473,"w":145,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":145,"h":15},
+	"sourceSize": {"w":145,"h":15}
+},
+"铅笔.png":
+{
+	"frame": {"x":258,"y":473,"w":178,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":18},
+	"sourceSize": {"w":178,"h":18}
+},
+"铜片.png":
+{
+	"frame": {"x":2,"y":522,"w":99,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":39},
+	"sourceSize": {"w":99,"h":39}
+},
+"铝.png":
+{
+	"frame": {"x":103,"y":522,"w":56,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":70},
+	"sourceSize": {"w":56,"h":70}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"bc47346db4e55013.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}
